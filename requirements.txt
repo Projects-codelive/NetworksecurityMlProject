@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+setuptools
+pymongo[srv]==3.12
+pymongo
+certifi
+scikit-learn
+dill
+pyaml
+
+##-e .
